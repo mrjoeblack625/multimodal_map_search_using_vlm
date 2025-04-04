@@ -92,15 +92,3 @@ Multimodal-Map-Search/
 ```
 
 ---
-
-## 🙏 Acknowledgments
-
-- Inspired by the [CLIP-LOC Maps](https://github.com/j-mahowald/clip-loc-maps) project.
-- Based on OpenAI's [CLIP model](https://openai.com/blog/clip).
-- Thanks to the creators of the dataset and embedding files.
-
----
-
-## 📄 License
-
-This project is released in the public domain or under an open-source license (specify here if any).
