@@ -8,15 +8,15 @@ This project leverages multimodal machine learning to enhance the discoverabilit
 
 ## ✨ Key Features
 
-- 🔍 **Text-based search**: Retrieve relevant maps by typing natural language queries (e.g., "ancient map of Rome").
-- 🖼️ **Image-based search**: Upload a map image to find visually similar maps.
-- 🧠 **Multimodal AI**: Uses OpenAI's **CLIP** model to connect images and text in a shared embedding space.
-- ⚡ **Fast & Scalable**: Searches are powered by precomputed embeddings for over half a million maps.
-- 🧪 **Interactive UI**: Simple and intuitive interface built with **Gradio**.
+-  **Text-based search**: Retrieve relevant maps by typing natural language queries (e.g., "ancient map of Rome").
+-  **Image-based search**: Upload a map image to find visually similar maps.
+-  **Multimodal AI**: Uses OpenAI's **CLIP** model to connect images and text in a shared embedding space.
+-  **Fast & Scalable**: Searches are powered by precomputed embeddings for over half a million maps.
+-  **Interactive UI**: Simple and intuitive interface built with **Gradio**.
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - **CLIP (Contrastive Language–Image Pretraining)** – for multimodal embeddings
 - **PyTorch** – model backbone and inference
@@ -90,5 +90,12 @@ Multimodal-Map-Search/
 ├── README.md                  # Project overview
 └── requirements.txt           # (Optional) Dependencies list
 ```
+
+---
+##  Acknowledgments
+
+- Based on OpenAI's [CLIP model](https://openai.com/blog/clip).
+- Thanks to the creators of the dataset and embedding files.
+- **For image-input search, the image input is not restricted to images from the Library of Congress.**
 
 ---
