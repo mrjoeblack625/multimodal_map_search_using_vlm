@@ -69,6 +69,14 @@ Open `search.ipynb` and:
 - Run the **last cell** to launch the **Gradio UI**.
 
 ---
+---
+
+## 🎥 Demo Video
+
+Watch the project in action:  
+[📺 Multimodal Map Search – Video Demo](https://drive.google.com/file/d/1IZ8yXhQGr2oX5IHvxDBstVe45c2-KA76/view?usp=sharing)
+
+---
 
 ## 🧪 Example Use Cases
 
