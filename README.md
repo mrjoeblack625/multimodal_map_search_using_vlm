@@ -74,7 +74,7 @@ Open `search.ipynb` and:
 ## 🎥 Demo Video
 
 Watch the project in action:  
-[📺 Multimodal Map Search – Video Demo](https://drive.google.com/file/d/1IZ8yXhQGr2oX5IHvxDBstVe45c2-KA76/view?usp=sharing)
+[📺 Multimodal Map Search – Video Demo](https://drive.google.com/file/d/1JiWS_ARGd18sfMNdE63aAgyr4g7GE_ud/view?usp=sharing)
 
 ---
 
